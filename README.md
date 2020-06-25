@@ -1,5 +1,5 @@
 # terraform_aks
-```HCL
+```hcl
 provider azurerm {
   version = "~>2.0"
   features {}
